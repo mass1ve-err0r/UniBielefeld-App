@@ -1,4 +1,4 @@
-# MyUniBi - Die inoffizielle App für die Uni Bielefeld
+# MyUniBi - Die inoffizielle App für die Uni Bielefeld (WIP)
 
 _MyUniBi_ ist dein idealer Begleiter neben dem Studium an der Universität Bielefeld.
 Ob Mensaplan einsehen, die E-Mail vom Professor  finden oder einfach stumpf den Studenplan einsehen; Alles kein Problem!
@@ -15,7 +15,7 @@ __Disclaimer: Der hier befindliche code ist komplette Eigenleistung und wird auc
 
 _My UniBi_ fordert mindestens iOS 13.0/ iPadOS 13.0!
 
-_My UniBi_ ist kostenfrei erhältlich im AppStore -> [Hier geht's zum AppStore](https://google.de)
+_My UniBi_ ist kostenfrei erhältlich im AppStore -> [Hier geht's zum AppStore (Noch nicht veröffentlicht)](#)
 
 Falls jemand direkt von Source möchte, einfach in Xcode laden, compilen & installieren.
 
@@ -27,10 +27,12 @@ Falls jemand direkt von Source möchte, einfach in Xcode laden, compilen & insta
 ## Credits
 - StackOverflow & Apple/ Swift.org - Unglaubliche Quellen falls man Hilfe braucht.
 - Meine Familie - Euer support wird immer wichtig sein!
+- Alamofire
+- SWXMLHash
 
 ## Lizenz
 Das Projekt samt bestandteile ist unter GPL v3 lizenziert.
 
 Zusätzliche Konditionen lauten wie folgt:
 - Kommerzielle Nutzung ist untersagt
-- Nutzung des zu hier befindlichen Codes ist Mitgliedern des ZAB App-Team der UniBi untersagt außer ein explizites Einverständnis wurde gegeben
+- Nutzung des zu hier befindlichen Codes ist Mitgliedern des ZAB App-Team der UniBi untersagt außer ein explizites Einverständnis wurde gegeben.
